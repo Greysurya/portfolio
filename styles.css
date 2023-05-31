@@ -319,9 +319,10 @@ link:hover{
 .welcome{
     margin-left:5px;
     }
-.navbar-toggler{
-    position:sticky;
+#tog{
+     position:sticky;
     top:0;
+}
 }
 
 /* Blink effect*/
