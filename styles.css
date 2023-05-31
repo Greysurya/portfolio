@@ -290,10 +290,7 @@ link:hover{
 #h1{
     padding: 10px;
 }
-    #img-about{
-    width: 100px;
-    height: 100px;
-}
+ 
 .wel{
     font-weight: 500;
 }
@@ -303,11 +300,11 @@ link:hover{
 #about img{
     width:200px;
     height:200px;
-    }
+ }
 #home img{
     width:200px;
     height:200px;
-    }
+}
 
 }
 
