@@ -302,8 +302,9 @@ link:hover{
     height:200px;
  }
 #home img{
-    width:200px;
+    width:300px;
     height:200px;
+    margin-left:45%;
 }
 
 }
