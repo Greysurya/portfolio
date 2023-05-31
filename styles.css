@@ -319,6 +319,10 @@ link:hover{
     }
  #about p{
      margin:5px;
+    }
+.welcome{
+    margin-left:10px;
+    }
 }
 
 /* Blink effect*/
