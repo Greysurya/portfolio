@@ -311,12 +311,14 @@ link:hover{
 }
 .H1{
     font-weight:400;
-    padding:10px
+    padding:10px;
     }
 #navbar{
     position:sticky;
     top:0;
-
+    }
+ #about p{
+     margin:5px;
 }
 
 /* Blink effect*/
