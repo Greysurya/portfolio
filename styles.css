@@ -314,8 +314,8 @@ link:hover{
     margin-left:36px;
     }
 #navbar{
-    position:sticky;
-    top:0;
+    position:sticky !important;
+    top:0 !important;
     }
  #about p{
      margin:5px;
