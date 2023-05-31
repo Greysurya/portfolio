@@ -253,7 +253,7 @@ section{
 
 @media only screen and (max-width:500px){
     #button{
-        margin-left: 36%;
+        margin-left:36%;
         background-color: black;
         font-family: poppins;
         border: none;
@@ -311,7 +311,7 @@ link:hover{
 }
 .H1{
     font-weight:400;
-    padding:10px;
+    margin-left:36px;
     }
 #navbar{
     position:sticky;
