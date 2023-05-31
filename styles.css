@@ -311,9 +311,7 @@ link:hover{
     font-weight:400;
     margin-left:36px;
     }
-.navbar-collapse{
-    margin-top:0;
-    }
+
  #about p{
      margin:5px;
      color:white;
@@ -321,6 +319,9 @@ link:hover{
 .welcome{
     margin-left:5px;
     }
+.navbar-toggler{
+    position:sticky;
+    top:0;
 }
 
 /* Blink effect*/
