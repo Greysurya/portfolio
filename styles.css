@@ -313,9 +313,8 @@ link:hover{
     font-weight:400;
     margin-left:36px;
     }
-#navbar{
-    position:sticky !important;
-    top:0 !important;
+.navbar-collapse{
+    margin-bottom:0;
     }
  #about p{
      margin:5px;
